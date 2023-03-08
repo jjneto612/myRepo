@@ -1,2 +1,2 @@
 # myRepo
-training repo
+training repo.
